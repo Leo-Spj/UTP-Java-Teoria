@@ -1,5 +1,22 @@
 package Semana1;
-
+/*
+* Tipo de datos:
+ * int edad = 12;
+ * String nombre =  "leonardo"
+ * char genero = 'm'
+ * double promedio = 4.5;
+ * float promedio = 3.3;
+ *
+ * para elevar a potencia se uza power (pow) usando Math.pow(a, b).
+ * para sacar la raiz se usa (1/b) como exponente.
+ * para redondear usar Math.round(e.100)/100.0  con dos ceros para tener mas
+ *  decimales Math.round(e.10000)/10000.0
+ * para un numero aleatorio entero (int)(Math.ramdom()*12)
+ *
+ * aleatorio dentro de un rango:
+ * int mayor=30, menor=11;
+ * c=(int)(Math.ramdom()*( mayor-menor+1)+menor)
+* */
 
 public class S1_teoria_ejercicio1 {
 
