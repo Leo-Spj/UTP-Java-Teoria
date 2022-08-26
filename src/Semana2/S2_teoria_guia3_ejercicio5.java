@@ -13,7 +13,7 @@ public class S2_teoria_guia3_ejercicio5 {
 
         // declaracion de variables
         double cantidad,b200,b100,b50,b20,b10,m5,m2,m1,c50,c20,c10;
-        cantidad=329.30;
+        cantidad=589.80;
 
         b200=(int)(cantidad/200); cantidad=cantidad%200;
         b100=(int)(cantidad/100); cantidad=cantidad%100;
@@ -27,19 +27,19 @@ public class S2_teoria_guia3_ejercicio5 {
             cantidad=cantidad*10;
         c50=(int)(cantidad/5); cantidad=cantidad%5;
         c20=(int)(cantidad/2); cantidad=cantidad%2;
-        c10=(int)(cantidad);
+        c10=(float)(cantidad);
 
-        System.out.println("billetes de 200 soles: " +b200);
-        System.out.println("billetes de 100 soles: " +b100);
-        System.out.println("billetes de 50 soles: " +b50);
-        System.out.println("billetes de 20 soles: " +b20);
-        System.out.println("billetes de 10 soles: " +b10);
-        System.out.println("monedas de 5 soles: " +m5);
-        System.out.println("monedas de 2 soles: " +m2);
-        System.out.println("monedas de 1 sol: " +m1);
-        System.out.println("monedas de 50 centavos: " +c50);
-        System.out.println("monedas de 20 centavos: " +c20);
-        System.out.println("monedas de 10 centavos: " +c10);
+        System.out.println("billetes de 200 soles: " +(int)b200);
+        System.out.println("billetes de 100 soles: " +(int)b100);
+        System.out.println("billetes de 50 soles: " +(int)b50);
+        System.out.println("billetes de 20 soles: " +(int)b20);
+        System.out.println("billetes de 10 soles: " +(int)b10);
+        System.out.println("monedas de 5 soles: " +(int)m5);
+        System.out.println("monedas de 2 soles: " +(int)m2);
+        System.out.println("monedas de 1 sol: " +(int)m1);
+        System.out.println("monedas de 50 centavos: " +(int)c50);
+        System.out.println("monedas de 20 centavos: " +(int)c20);
+        System.out.println("monedas de 10 centavos: " +(int)c10);
 
     }
 }
