@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="semana 2 ejercicio 5">
-      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_ejemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_ejercicio4_3.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="semana 3 sesión 1">
+      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_s2_ejercicio0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_s2_ejercicio4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana3/S3_teoria_s2_ejericio4_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2022_18_37_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_08_2022_18_37__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.S3_teoria_ejercicio4_3">
-    <configuration name="S2_teoria_guia3_ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana2.S2_teoria_guia3_ejercicio5" />
-      <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.S3_teoria_s2_ejericio4_8">
     <configuration name="S3_teoria_ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana3.S3_teoria_ejercicio2" />
       <module name="utp_java" />
@@ -93,11 +82,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="S3_teoria_s2_ejercicio0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana3.S3_teoria_s2_ejercicio0" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semana3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S3_teoria_s2_ejercicio4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana3.S3_teoria_s2_ejercicio4_4" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semana3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S3_teoria_s2_ejericio4_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana3.S3_teoria_s2_ejericio4_8" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semana3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S3_teoria_s2_ejericio4_8" />
+        <item itemvalue="Application.S3_teoria_s2_ejercicio4_4" />
+        <item itemvalue="Application.S3_teoria_s2_ejercicio0" />
         <item itemvalue="Application.S3_teoria_ejercicio4_3" />
         <item itemvalue="Application.S3_teoria_ejercicio2" />
-        <item itemvalue="Application.S2_teoria_guia3_ejercicio5" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +145,8 @@
       <workItem from="1661355532484" duration="333000" />
       <workItem from="1661438880253" duration="6823000" />
       <workItem from="1661485417497" duration="1134000" />
-      <workItem from="1661785400332" duration="3828000" />
+      <workItem from="1661785400332" duration="4043000" />
+      <workItem from="1662044130430" duration="5025000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -152,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661485917270</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="semana 3 sesión 1">
+      <created>1661790316670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661790316670</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +225,7 @@
     <MESSAGE value="estructurando" />
     <MESSAGE value="Semana 2 sesion 2 ejerccios resueltos en clase" />
     <MESSAGE value="semana 2 ejercicio 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="semana 2 ejercicio 5" />
+    <MESSAGE value="semana 3 sesión 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="semana 3 sesión 1" />
   </component>
 </project>
