@@ -3,9 +3,9 @@
 <h2>SISTEMA DE EVALUACIÓN</h2>
 <p>(20%)PC1 + (3%)TA1 + (20%)PC2 + (3%)TA2 + (20%)PC3 + (4%)TA3 + (30%)TF </p>
 
-<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src">Semanas</a>
 
-<h2>Semana 1,2,3,4 y 5</h2>
+
+<h2>Semana <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana1">1</a>,<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana2">2</a>,<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana3">3</a>,4 y 5</h2>
 <h3>Unidad de aprendizaje 1:</h3>
 <p>Programación con Java: Fundamentos de programación, estructuras secuenciales, estructuras condicionales.</p>
 <h3>Temario:</h3>
