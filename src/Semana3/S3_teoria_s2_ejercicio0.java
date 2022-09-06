@@ -1,5 +1,6 @@
 package Semana3;
 
+import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
 /*
@@ -19,7 +20,52 @@ retirar todo el dinero.
 public class S3_teoria_s2_ejercicio0 {
 
     public static void main(String[] args) {
-        int meses;
+
+        int meses, factor_activador;
+            factor_activador=0;
+        double monto, interes, interes_mes, total;
+        String moneda, terminacion_moneda;
+        terminacion_moneda = "S/";
+
+        Scanner teclado = new Scanner(System.in);
+
+        System.out.println("Ingrese el tiempo del deposito en meses:");
+        meses = teclado.nextInt();
+
+        System.out.println("Ingrese su tipo de moneda (soles o dolares):");
+        moneda = teclado.next();
+        moneda = moneda.toLowerCase();
+
+        System.out.println("Ingrese el monto a depositar:");
+        monto = teclado.nextDouble();
+
+        if (meses>=1 && meses<=12){
+            interes_mes = 0.03;
+        }else if (meses>=13 && meses<=24){
+            interes_mes = 0.05;
+        }else if(meses>=25){
+            interes_mes = 0.07;
+        }else {
+            interes_mes = 0;
+        }
+
+        if (moneda.equals("dolares")){
+            factor_activador = 1;
+            terminacion_moneda = "$";
+        }
+
+        total = monto + monto*(interes_mes + (0.02)*(factor_activador)) ;
+        interes = total-monto;
+
+        System.out.println("Su interes ganado: " + terminacion_moneda + interes);
+        System.out.println("Su total acumulado: " + terminacion_moneda + total);
+
+
+    }
+
+}
+/*
+*  int meses;
         double monto, porctInt = 0, impInt, intAdic = 0, intTotal, impTotal;
         String tipoMon;
         Scanner scan = new Scanner(System.in);
@@ -52,9 +98,8 @@ public class S3_teoria_s2_ejercicio0 {
         // salida
         System.out.println("Monto "+monto+"\t"+tipoMon+"\n"+"Interes "+impInt+"\n"+"Int Adicional "+intAdic);
         System.out.println("Importe total "+impTotal);
-    }
-
-}
+*
+* */
 
 
 
