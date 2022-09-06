@@ -2,6 +2,60 @@
 
 <h2>SISTEMA DE EVALUACIÓN</h2>
 <p>(20%)PC1 + (3%)TA1 + (20%)PC2 + (3%)TA2 + (20%)PC3 + (4%)TA3 + (30%)TF </p>
+<table cellspacing="0" border="0">
+	<colgroup width="80"></colgroup>
+	<colgroup width="135"></colgroup>
+	<colgroup width="80"></colgroup>
+	<colgroup width="626"></colgroup>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="center"><b><font color="#000000">Tipo</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">Descripcion</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">Semana</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">observación</font></b></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">PC1</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 1</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 1</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">TA1</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Tarea Academica 1</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="5" sdnum="1033;"><font color="#000000">5</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">investigacion 1. Arquitectura del JDK, jerarquia de paquetes de JAVA, los JARs.</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">PC2</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 2</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="10" sdnum="1033;"><font color="#000000">10</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 2</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">TA2</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Tarea Academica 2</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="10" sdnum="1033;"><font color="#000000">10</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Invertigacion 2. Modulos en JAVA: Conceptos, creación, complilación, despliegue, creacion de JARs.</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">PC3</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 3</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Practica Calificada 3</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">TA3</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Tarea Academica 3</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Investigacion 3. Jshell: conceptos, testing, Jshell en consola, Jshell in an IDE.</font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="left"><font color="#000000">TF</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Tabajo Final</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" sdval="18" sdnum="1033;"><font color="#000000">18</font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left"><font color="#000000">Trabajo final</font></td>
+	</tr>
+</table>
 
 
 
