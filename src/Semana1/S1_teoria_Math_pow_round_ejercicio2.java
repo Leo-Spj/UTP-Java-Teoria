@@ -1,6 +1,6 @@
 package Semana1;
 
-public class S1_teoria_ejercicio2 {
+public class S1_teoria_Math_pow_round_ejercicio2 {
 
 
     public static void main(String[] args) {

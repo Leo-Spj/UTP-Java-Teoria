@@ -2,7 +2,7 @@ package Semana1;
 
 import java.util.Scanner;
 
-public class S1_tarea_ejercicio1 {
+public class S1_tarea_scanner_ejercicio1 {
 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);

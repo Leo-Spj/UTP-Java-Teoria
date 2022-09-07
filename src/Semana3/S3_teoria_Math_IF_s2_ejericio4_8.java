@@ -7,7 +7,7 @@ package Semana3;
 * a^2 > b^2 + c^2 ---> triangulo obtusangulo
 *
 * */
-public class S3_teoria_s2_ejericio4_8 {
+public class S3_teoria_Math_IF_s2_ejericio4_8 {
     public static void main(String[] args) {
 
         double a,b,c;

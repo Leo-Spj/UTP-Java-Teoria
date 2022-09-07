@@ -5,7 +5,7 @@ areaRombo = (diagonalMayor * diagonal Menor)/2
 usar random para la diagonal mayor y menor
 
  * */
-public class S2_teoria_guia3_ejercicio1 {
+public class S2_teoria_Math_random_round_guia3_ejercicio1 {
 
     public static void main(String[] args) {
         // declaracion de variables

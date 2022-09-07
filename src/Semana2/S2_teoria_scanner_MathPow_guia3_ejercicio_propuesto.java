@@ -2,7 +2,7 @@ package Semana2;
 
 import java.util.Scanner;
 
-public class S2_teoria_guia3_ejercicio_propuesto {
+public class S2_teoria_scanner_MathPow_guia3_ejercicio_propuesto {
 
     public static void main(String[] args) {
         // declaracion de las variables

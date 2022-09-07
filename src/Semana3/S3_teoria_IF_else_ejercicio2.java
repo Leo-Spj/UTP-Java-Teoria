@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //ingrese un numero entero y determine si es multiplo de 10.
 
-public class S3_teoria_ejercicio2 {
+public class S3_teoria_IF_else_ejercicio2 {
     public static void main(String[] args) {
 
         int num;

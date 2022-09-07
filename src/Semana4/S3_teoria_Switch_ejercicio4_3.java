@@ -13,7 +13,7 @@ descuento
 
 import java.util.Scanner;
 
-public class S3_teoria_ejercicio4_3 {
+public class S3_teoria_Switch_ejercicio4_3 {
     public static void main(String[] args) {
         String tipo="", msg="El precio es de S/";
         int precio, cantidad;

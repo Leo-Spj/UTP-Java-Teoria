@@ -2,7 +2,7 @@ package Semana3;
 
 import java.util.Scanner;
 
-public class S3_teoria_ejemplo3 {
+public class S3_teoria_EQUALS_ToLowerCase_IF_ejemplo3 {
     public static void main(String[] args){
 
         Scanner teclado = new Scanner(System.in);

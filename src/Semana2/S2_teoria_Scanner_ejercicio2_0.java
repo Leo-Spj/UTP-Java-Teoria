@@ -12,7 +12,7 @@ corresponde a cada avenida.
 
 import java.util.Scanner;
 
-public class S2_teoria_ejercicio2_0 {
+public class S2_teoria_Scanner_ejercicio2_0 {
     public static void main(String[] args) {
 
         double monto, lamar, julio28, bolivar, clement, sucre;

@@ -1,7 +1,5 @@
 package Semana4;
 
-import javafx.scene.control.TableColumn;
-
 import java.util.Scanner;
 
 /*
@@ -13,27 +11,39 @@ que  es  cliente  1  o  2,  el  resto  no  tiene  incremento.  Realice  un  algo
 nuevo límite de crédito que tendrá una persona en su tarjeta.
 * */
 
-public class S4_teoria_switch {
+public class S4_teoria_Switch {
 
    public static void main(String[] args) {
+
       int tipo; double porctInc; String deuda;
+
       Scanner scan=new Scanner(System.in);
+
       System.out.print("Tipo "); tipo=scan.nextInt();
-      System.out.print("Tiene deuda? (SI/NO "); deuda=scan.next();
+      System.out.print("Tiene deuda? (SI/NO ");
+      deuda=scan.next();
       deuda=deuda.toUpperCase();
+
+
       switch(tipo){
-         case 1: porctInc=0.25;break;
-         case 2: porctInc=0.35;break;
-         case 3: porctInc=0.40;break;
+         case 1: porctInc=0.25;
+            break;
+         case 2: porctInc=0.35;
+            break;
+         case 3: porctInc=0.40;
+            break;
          default: porctInc=0.25;
       }
+
       if(deuda.equals("SI")){
          switch(tipo){
             case 1:
-            case 2: porctInc=porctInc/2;break;
+            case 2: porctInc=porctInc/2;
+               break;
             default:porctInc=0;
          }
       }
+
       System.out.println("Porct Incremento "+porctInc);
    }
 

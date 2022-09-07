@@ -8,7 +8,7 @@ package Semana2;
  * c=(int)(Math.ramdom()*( mayor-menor+1)+menor)
 * */
 
-public class S2_teoria_guia3_ejercicio4 {
+public class S2_teoria_Math_random_round_guia3_ejercicio4 {
     public static void main(String[] args) {
 
         // declaracion de variables

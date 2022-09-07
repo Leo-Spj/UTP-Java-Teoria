@@ -1,6 +1,5 @@
 package Semana3;
 
-import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
 /*
@@ -17,7 +16,7 @@ retirar todo el dinero.
 *
 *
 * */
-public class S3_teoria_s2_ejercicio0 {
+public class S3_teoria_ToLowerCase_equals_if_s2_ejercicio0 {
 
     public static void main(String[] args) {
 

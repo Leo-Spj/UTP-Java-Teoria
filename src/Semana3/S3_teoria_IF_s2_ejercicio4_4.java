@@ -4,9 +4,7 @@ sea una hora dado en el formato: hh:mm:ss. calcular lal hora que será dentro de
 11 02 40 + 1 = 11 02 41
 */
 
-import java.util.Scanner;
-
-public class S3_teoria_s2_ejercicio4_4 {
+public class S3_teoria_IF_s2_ejercicio4_4 {
     public static void main(String[] args) {
 
         int hora, minuto, segundo;

@@ -8,10 +8,11 @@ package Semana2;
 *  2 monedas de 2 soles, 0 moneda de 1 sol, 0 monedas de 50 centavos, 1 moneda de 20 centavos
 *  y 1 moneda de 10 centavos.
 * */
-public class S2_teoria_guia3_ejercicio5 {
+public class S2_teoria_variables_guia3_ejercicio5 {
     public static void main(String[] args){
 
         // declaracion de variables
+        String men_bi ="Billetes de ", men_mon="Monedas de ";
         double cantidad,b200,b100,b50,b20,b10,m5,m2,m1,c50,c20,c10;
         cantidad=589.80;
 
@@ -29,17 +30,17 @@ public class S2_teoria_guia3_ejercicio5 {
         c20=(int)(cantidad/2); cantidad=cantidad%2;
         c10=(float)(cantidad);
 
-        System.out.println("billetes de 200 soles: " +(int)b200);
-        System.out.println("billetes de 100 soles: " +(int)b100);
-        System.out.println("billetes de 50 soles: " +(int)b50);
-        System.out.println("billetes de 20 soles: " +(int)b20);
-        System.out.println("billetes de 10 soles: " +(int)b10);
-        System.out.println("monedas de 5 soles: " +(int)m5);
-        System.out.println("monedas de 2 soles: " +(int)m2);
-        System.out.println("monedas de 1 sol: " +(int)m1);
-        System.out.println("monedas de 50 centavos: " +(int)c50);
-        System.out.println("monedas de 20 centavos: " +(int)c20);
-        System.out.println("monedas de 10 centavos: " +(int)c10);
+        System.out.println(men_bi + "200 soles: " +(int)b200);
+        System.out.println(men_bi + "100 soles: " +(int)b100);
+        System.out.println(men_bi + "50 soles: " +(int)b50);
+        System.out.println(men_bi + "20 soles: " +(int)b20);
+        System.out.println(men_bi + "10 soles: " +(int)b10);
+        System.out.println(men_mon + "5 soles: " +(int)m5);
+        System.out.println(men_mon + "2 soles: " +(int)m2);
+        System.out.println(men_mon + "1 sol: " +(int)m1);
+        System.out.println(men_mon + "50 centavos: " +(int)c50);
+        System.out.println(men_mon + "20 centavos: " +(int)c20);
+        System.out.println(men_mon + "10 centavos: " +(int)c10);
 
     }
 }

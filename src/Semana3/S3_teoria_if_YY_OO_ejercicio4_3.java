@@ -1,6 +1,6 @@
 package Semana3;
 
-public class S3_teoria_ejercicio4_3 {
+public class S3_teoria_if_YY_OO_ejercicio4_3 {
     public static void main(String[] args) {
 
 
