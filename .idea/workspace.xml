@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Renombrando por tema">
-      <change afterPath="$PROJECT_DIR$/src/Semana4/S4_Operador_ternario_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana4/S4_Switch_ifTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana4/S4_elvis_Operador_ternario.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 4 s2">
+      <change afterPath="$PROJECT_DIR$/src/Semana4/sesion_DO_While_Switch_if_substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana4/S3_teoria_Switch_ejercicio4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana4/S4_teoria_Switch_ejercicio4_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.S4_Switch_ifTernario">
+  <component name="RunManager" selected="Application.lala">
     <configuration name="S2_teoria_variables_guia3_ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Semana2.S2_teoria_variables_guia3_ejercicio5" />
       <module name="utp_java" />
@@ -108,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S4_teoria_Switch_ejercicio4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana4.S4_teoria_Switch_ejercicio4_3" />
+    <configuration name="lala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana4.lala" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lala" />
         <item itemvalue="Application.S4_Switch_ifTernario" />
         <item itemvalue="Application.S4_Operador_ternario_if" />
         <item itemvalue="Application.S4_elvis_Operador_ternario" />
         <item itemvalue="Application.S2_teoria_variables_guia3_ejercicio5" />
-        <item itemvalue="Application.S4_teoria_Switch_ejercicio4_3" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +149,8 @@
       <workItem from="1662477201350" duration="3823000" />
       <workItem from="1662569380765" duration="2028000" />
       <workItem from="1662643340487" duration="1903000" />
-      <workItem from="1662649591074" duration="4307000" />
+      <workItem from="1662649591074" duration="5241000" />
+      <workItem from="1662740661308" duration="4369000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -238,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662571393017</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Semana 4 s2">
+      <created>1662654540778</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662654540779</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +282,7 @@
     <MESSAGE value="semana 3 sesión 2" />
     <MESSAGE value="semana 3 sesión 2 modificacion" />
     <MESSAGE value="Renombrando por tema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renombrando por tema" />
+    <MESSAGE value="Semana 4 s2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 4 s2" />
   </component>
 </project>
