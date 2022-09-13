@@ -18,7 +18,7 @@ package Semana1;
  * c=(int)(Math.ramdom()*( mayor-menor+1)+menor)
 * */
 
-public class S1_teoria_Math_random_pow_round_ejercicio1 {
+public class S1_teoria_Math_Intervalo_random_pow_round_ejercicio1 {
 
 
     public static void main(String[] args) {

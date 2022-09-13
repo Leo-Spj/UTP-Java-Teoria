@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 4 s2">
-      <change afterPath="$PROJECT_DIR$/src/Semana4/sesion_DO_While_Switch_if_substring.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="DO/While, Switch, if, substring.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana1/S1_teoria_Math_random_pow_round_ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana1/S1_teoria_Math_Intervalo_random_pow_round_ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,8 @@
       <workItem from="1662569380765" duration="2028000" />
       <workItem from="1662643340487" duration="1903000" />
       <workItem from="1662649591074" duration="5241000" />
-      <workItem from="1662740661308" duration="4369000" />
+      <workItem from="1662740661308" duration="4644000" />
+      <workItem from="1663036294542" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -243,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662654540779</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DO/While, Switch, if, substring.">
+      <created>1662745635973</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662745635973</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +291,7 @@
     <MESSAGE value="semana 3 sesión 2 modificacion" />
     <MESSAGE value="Renombrando por tema" />
     <MESSAGE value="Semana 4 s2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 4 s2" />
+    <MESSAGE value="DO/While, Switch, if, substring." />
+    <option name="LAST_COMMIT_MESSAGE" value="DO/While, Switch, if, substring." />
   </component>
 </project>
