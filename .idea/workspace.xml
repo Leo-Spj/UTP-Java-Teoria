@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Rename">
-      <change afterPath="$PROJECT_DIR$/src/Semana5/S5_fernando.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/S5_preguntamodelo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/S5_preguntamodelo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/S5_preguntamodelo_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana5/S5_preguntamodelo_4.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="precio x kg">
+      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana1/S1_teoria_Math_Intervalo_random_pow_round_ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana1/S1_teoria_Math_Intervalo_random_pow_round_ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.S5_preguntamodelo_4">
-    <configuration name="S5_preguntamodelo_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana5.S5_preguntamodelo_1" />
+  <component name="RunManager" selected="Application.Pregunta3">
+    <configuration name="Pregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC1.Pregunta1" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana5.*" />
+          <option name="PATTERN" value="PC1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S5_preguntamodelo_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana5.S5_preguntamodelo_2" />
+    <configuration name="Pregunta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC1.Pregunta2" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana5.*" />
+          <option name="PATTERN" value="PC1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S5_preguntamodelo_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana5.S5_preguntamodelo_3" />
+    <configuration name="Pregunta3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC1.Pregunta3" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana5.*" />
+          <option name="PATTERN" value="PC1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pregunta4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC1.Pregunta4" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PC1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana4.lala" />
-      <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pregunta3" />
+        <item itemvalue="Application.Pregunta4" />
+        <item itemvalue="Application.Pregunta2" />
+        <item itemvalue="Application.Pregunta1" />
         <item itemvalue="Application.S5_preguntamodelo_4" />
-        <item itemvalue="Application.S5_preguntamodelo_3" />
-        <item itemvalue="Application.S5_preguntamodelo_2" />
-        <item itemvalue="Application.S5_preguntamodelo_1" />
-        <item itemvalue="Application.lala" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +156,9 @@
       <workItem from="1662740661308" duration="4644000" />
       <workItem from="1663036294542" duration="835000" />
       <workItem from="1663076695705" duration="8968000" />
+      <workItem from="1663211522851" duration="577000" />
+      <workItem from="1663212521074" duration="1015000" />
+      <workItem from="1663252910262" duration="4199000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -264,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663043538943</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="precio x kg">
+      <created>1663211591093</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663211591093</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +314,7 @@
     <MESSAGE value="Semana 4 s2" />
     <MESSAGE value="DO/While, Switch, if, substring." />
     <MESSAGE value="Rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
+    <MESSAGE value="precio x kg" />
+    <option name="LAST_COMMIT_MESSAGE" value="precio x kg" />
   </component>
 </project>
