@@ -73,7 +73,7 @@
     <li>Estructura condicional Sentencia: IF ELSE</li>
     <li>Estructura condicional Sentencia: SWITCH, CASE</li>
     <li>Estructura condicional anidada</li>
-    <li><strong>Práctica Calificada 1</strong></li>
+    <li><strong><a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/PC1">Práctica Calificada 1</a></strong></li>
 </ul>
 
 
