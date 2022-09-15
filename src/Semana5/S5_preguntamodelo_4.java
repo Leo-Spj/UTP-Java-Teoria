@@ -36,7 +36,7 @@ public class S5_preguntamodelo_4 {
 
                 if(peso_pk <= 5){
 
-                        System.out.println("¿A qué zona irá dirigido su paquete?\nAmerica del Norte\t24,30 soles.\nAmerica Central\t20,40 soles\nAmerica del Sur\t21,35 soles\nEuropa\t10,23 soles\nAsia\t18,27 soles");
+                        System.out.println("¿A qué zona irá dirigido su paquete? (Precio x Kg.)\nAmerica del Norte\t24,30 soles.\nAmerica Central\t20,40 soles\nAmerica del Sur\t21,35 soles\nEuropa\t10,23 soles\nAsia\t18,27 soles");
                         destino = teclado.next();
                         destino = destino.toLowerCase();
 
