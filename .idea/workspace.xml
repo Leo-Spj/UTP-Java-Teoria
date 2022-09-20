@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="precio x kg">
-      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC1/Pregunta4.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="PC1">
+      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +157,8 @@
       <workItem from="1663076695705" duration="8968000" />
       <workItem from="1663211522851" duration="577000" />
       <workItem from="1663212521074" duration="1015000" />
-      <workItem from="1663252910262" duration="4199000" />
+      <workItem from="1663252910262" duration="4328000" />
+      <workItem from="1663685357441" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -272,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663211591093</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="PC1">
+      <created>1663257310420</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663257310420</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +322,7 @@
     <MESSAGE value="DO/While, Switch, if, substring." />
     <MESSAGE value="Rename" />
     <MESSAGE value="precio x kg" />
-    <option name="LAST_COMMIT_MESSAGE" value="precio x kg" />
+    <MESSAGE value="PC1" />
+    <option name="LAST_COMMIT_MESSAGE" value="PC1" />
   </component>
 </project>
