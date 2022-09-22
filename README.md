@@ -8,7 +8,7 @@
 	<colgroup width="80"></colgroup>
 	<colgroup width="626"></colgroup>
 	<tr>
-		<td style="border-top: 1px solid #005500; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="center"><b><font color="#000000">Tipo</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="18" align="center"><b><font color="#000000">Tipo</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">Descripcion</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">Semana</font></b></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center"><b><font color="#000000">observación</font></b></td>
@@ -79,7 +79,7 @@
 
 
 
-<h2>Semana 6,7,8,9,10 y 11</h2>
+<h2>Semana <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana6">6</a>, 7, 8, 9, 10 y 11</h2>
 <h3>Unidad de aprendizaje 2:</h3>
 <p>Programación con Java: Estructuras repetitivas y arreglos.</p>
 <h3>Temario:</h3>
