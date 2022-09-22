@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="PC1">
-      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_Rev_exam3.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 6, resolución de ejercicios de la PC.">
+      <change afterPath="$PROJECT_DIR$/src/Semana6/S6_funciones_procedimiento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pregunta3">
+  <component name="RunManager" selected="Application.S6_funciones_procedimiento">
     <configuration name="Pregunta1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PC1.Pregunta1" />
       <module name="utp_java" />
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S5_preguntamodelo_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana5.S5_preguntamodelo_4" />
+    <configuration name="S6_funciones_procedimiento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana6.S6_funciones_procedimiento" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana5.*" />
+          <option name="PATTERN" value="Semana6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S6_funciones_procedimiento" />
         <item itemvalue="Application.Pregunta3" />
         <item itemvalue="Application.Pregunta4" />
         <item itemvalue="Application.Pregunta2" />
         <item itemvalue="Application.Pregunta1" />
-        <item itemvalue="Application.S5_preguntamodelo_4" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +157,7 @@
       <workItem from="1663212521074" duration="1015000" />
       <workItem from="1663252910262" duration="4328000" />
       <workItem from="1663685357441" duration="2942000" />
+      <workItem from="1663858099931" duration="4224000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -323,6 +322,7 @@
     <MESSAGE value="Rename" />
     <MESSAGE value="precio x kg" />
     <MESSAGE value="PC1" />
-    <option name="LAST_COMMIT_MESSAGE" value="PC1" />
+    <MESSAGE value="Semana 6, resolución de ejercicios de la PC." />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 6, resolución de ejercicios de la PC." />
   </component>
 </project>
