@@ -32,6 +32,8 @@ public class S6_funciones_procedimiento {
         return resultado;
     }
 
+
+
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
