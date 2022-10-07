@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 7">
-      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_FOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_ejer4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_ejer4_2.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 8">
+      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_cambioBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_ejer4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semana8/S8_ejer_4_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_341/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,25 +57,12 @@
     &quot;app.teamhub.trackedBranches&quot;: &quot;153998i/master&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.S8_ejer4_1">
-    <configuration name="S7_procesosRepetitivos_WHILE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana7.S7_procesosRepetitivos_WHILE" />
-      <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S8_FOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana8.S8_FOR" />
+  <component name="RunManager" selected="Application.S8_ejer4_5">
+    <configuration name="S8_cambioBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana8.S8_cambioBase" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eleato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana8.eleato" />
+    <configuration name="S8_ejer4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana8.S8_ejer4_5" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semana8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S8_ejer_4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semana8.S8_ejer_4_3" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S8_ejer4_5" />
+        <item itemvalue="Application.S8_cambioBase" />
+        <item itemvalue="Application.S8_ejer_4_3" />
         <item itemvalue="Application.S8_ejer4_1" />
         <item itemvalue="Application.S8_ejer4_2" />
-        <item itemvalue="Application.eleato" />
-        <item itemvalue="Application.S8_FOR" />
-        <item itemvalue="Application.S7_procesosRepetitivos_WHILE" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +176,9 @@
       <workItem from="1664685107334" duration="683000" />
       <workItem from="1664749900883" duration="3000" />
       <workItem from="1664894636374" duration="5527000" />
+      <workItem from="1665067530109" duration="141000" />
+      <workItem from="1665067898335" duration="7340000" />
+      <workItem from="1665108769788" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
