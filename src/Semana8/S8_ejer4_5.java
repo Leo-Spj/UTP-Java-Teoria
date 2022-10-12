@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class S8_ejer4_5 {
     public static void main(String[] args) {
-        int a=0, b=1, c=0, suma=0, n;
+        int a=0, b=1,  suma=0, n;
         String cadena="0"+"\t";
 
         Scanner teclado = new Scanner(System.in);
