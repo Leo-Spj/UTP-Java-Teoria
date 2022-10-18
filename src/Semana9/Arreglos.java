@@ -3,7 +3,7 @@ package Semana9;
 import java.util.Arrays;
 
 public class Arreglos {
-    public static int[] llenaArreglo(int arr[]){
+    public static int[] llenaArreglo(int[] arr){
         int indMax=arr.length-1;
 
         for(int i=0; i<=indMax;i++){

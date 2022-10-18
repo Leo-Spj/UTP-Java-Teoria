@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 9">
-      <change afterPath="$PROJECT_DIR$/src/Semana9/ejer2_Arrays.java" afterDir="false" />
+    <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 10">
+      <change afterPath="$PROJECT_DIR$/src/zemana10/ejer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana10/ejer2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana9/Array_ejer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana9/Array_ejer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana9/Array_menor_valor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana9/Arreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana9/Arreglos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +186,8 @@
       <workItem from="1665583102456" duration="765000" />
       <workItem from="1665584566984" duration="489000" />
       <workItem from="1665668239487" duration="12911000" />
-      <workItem from="1665691225490" duration="359000" />
+      <workItem from="1665691225490" duration="649000" />
+      <workItem from="1666104425992" duration="5027000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -331,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665583165607</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Semana 9">
+      <created>1665691729367</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665691729367</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,6 +420,7 @@
     <MESSAGE value="Semana 7" />
     <MESSAGE value="Semana 8" />
     <MESSAGE value="Semana 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 9" />
+    <MESSAGE value="Semana 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 10" />
   </component>
 </project>

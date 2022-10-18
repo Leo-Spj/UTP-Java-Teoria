@@ -22,7 +22,8 @@ public class Array_ejer2 {
         return promedio;
     }
     public static int hallaMayor(int arr[]){
-        int indMax=arr.length-1; int mayor=arr[0];
+        int indMax=arr.length-1;
+        int mayor=arr[0];
         for(int i=0; i<=indMax;i++){
             if(arr[i]> mayor)
                 mayor = arr[i];
@@ -30,7 +31,8 @@ public class Array_ejer2 {
         return mayor;
     }
     public static int hallaMenor(int arr[]){
-        int indMax=arr.length; int menor=arr[0];
+        int indMax=arr.length;
+        int menor=arr[0];
         for(int i=0; i<indMax;i++){
             if(arr[i]< menor)
                 menor = arr[i];
