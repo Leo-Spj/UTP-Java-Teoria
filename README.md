@@ -92,7 +92,7 @@
     <li>Teoría de Arreglos. Arreglos de una dimensión</li>
     <li>Arreglos de una dimensión Arreglo de char</li>
     <li>Arreglos de dos dimensiones</li>
-    <li><strong>Práctica Calificada 2</strong></li>
+    <li><strong><a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/PC2">Práctica Calificada 2</a></strong></li>
     <li>Modularidad Procedimientos - Funciones Parámetros, paso de parámetros. Entrada de datos: JOptionaPane2</li>
 </ul>
 
