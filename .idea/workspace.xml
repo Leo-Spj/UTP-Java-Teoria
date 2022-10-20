@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="Semana 10">
-      <change afterPath="$PROJECT_DIR$/src/zemana10/ejer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana10/ejer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC2/ejer_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC2/ejer_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC2/ejer_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC2/ejer_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana9/Array_ejer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana9/Array_ejer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana9/Array_menor_valor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana9/Arreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana9/Arreglos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +61,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ejer2_Arrays">
-    <configuration name="Array_ejer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana9.Array_ejer2" />
-      <module name="utp_java" />
+  <component name="RunManager" selected="Application.ejer_1">
+    <configuration name="Pc2_leonardo_espejo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.pc2_leonardo_espejo.Pc2_leonardo_espejo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semana9.*" />
+          <option name="PATTERN" value="com.mycompany.pc2_leonardo_espejo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,65 +74,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S8_cambioBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana8.S8_cambioBase" />
+    <configuration name="ejer_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC2.ejer_1" />
       <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S8_ejer4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana8.S8_ejer4_5" />
+    <configuration name="ejer_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC2.ejer_2" />
       <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S8_ejer_4_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana8.S8_ejer_4_3" />
+    <configuration name="ejer_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC2.ejer_3" />
       <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejer2_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semana9.ejer2_Arrays" />
+    <configuration name="ejer_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC2.ejer_4" />
       <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Semana9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ejer2_Arrays" />
-        <item itemvalue="Application.Array_ejer2" />
-        <item itemvalue="Application.S8_ejer4_5" />
-        <item itemvalue="Application.S8_cambioBase" />
-        <item itemvalue="Application.S8_ejer_4_3" />
+        <item itemvalue="Application.ejer_1" />
+        <item itemvalue="Application.Pc2_leonardo_espejo" />
+        <item itemvalue="Application.ejer_4" />
+        <item itemvalue="Application.ejer_3" />
+        <item itemvalue="Application.ejer_2" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +161,8 @@
       <workItem from="1665584566984" duration="489000" />
       <workItem from="1665668239487" duration="12911000" />
       <workItem from="1665691225490" duration="649000" />
-      <workItem from="1666104425992" duration="5027000" />
+      <workItem from="1666104425992" duration="5423000" />
+      <workItem from="1666276777919" duration="5666000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
@@ -343,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665691729367</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Semana 10">
+      <created>1666122874727</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666122874727</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
