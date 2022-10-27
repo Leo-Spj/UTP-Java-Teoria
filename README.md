@@ -79,7 +79,7 @@
 
 
 
-<h2>Semana <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana6">6</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana7">7</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana8">8</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana9">9</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana10">10</a> y 11</h2>
+<h2>Semana <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana6">6</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana7">7</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana8">8</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/Semana9">9</a>, <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana10">10</a> y <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana11">11</a></h2>
 <h3>Unidad de aprendizaje 2:</h3>
 <p>Programación con Java: Estructuras repetitivas y arreglos.</p>
 <h3>Temario:</h3>
