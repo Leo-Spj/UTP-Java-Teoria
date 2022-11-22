@@ -2,7 +2,7 @@
 
 <h2>SISTEMA DE EVALUACIÓN</h2>
 <p>(20%)PC1 + (3%)TA1 + (20%)PC2 + (3%)TA2 + (20%)PC3 + (4%)TA3 + (30%)TF </p>
-<table cellspacing="0" border="0">
+<table >
 	<colgroup width="80"></colgroup>
 	<colgroup width="135"></colgroup>
 	<colgroup width="80"></colgroup>
@@ -99,7 +99,7 @@
 
 
 
-<h2>Semana  12,13,14,15,16,17 y 18</h2>
+<h2>Semana  <a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana12">12</a> ,<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana13">13</a> ,<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana14">14</a> ,<a href="https://github.com/Leo-Spj/UTP-Java-Teoria/tree/master/src/zemana15">15</a> ,16,17 y 18</h2>
 <h3>Unidad de aprendizaje 3:</h3>
 <p>Introducción a la Programación Orientada a Objetos, manejo de excepciones, manejo de cadenas de texto, fechas y ficheros en Java</p>
 <h3>Temario:</h3>
