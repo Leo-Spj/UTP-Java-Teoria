@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="semana 11">
-      <change afterPath="$PROJECT_DIR$/src/zemana15/cadenanombres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana15/televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana15/bascnombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana15/libreria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana15/llamando_libreria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cadenanombres">
+  <component name="RunManager" selected="Application.llamando_libreria">
     <configuration name="arreglo_bidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zemana11.arreglo_bidimensional" />
       <module name="utp_java" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ejer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zemana11.ejer1" />
+    <configuration name="excepciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zemana14.excepciones" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zemana11.*" />
+          <option name="PATTERN" value="zemana14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="excepciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zemana14.excepciones" />
+    <configuration name="llamando_libreria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zemana15.llamando_libreria" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zemana14.*" />
+          <option name="PATTERN" value="zemana15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.llamando_libreria" />
         <item itemvalue="Application.cadenanombres" />
         <item itemvalue="Application.excepciones" />
         <item itemvalue="Application.mainEjer3" />
         <item itemvalue="Application.arreglo_bidimensional" />
-        <item itemvalue="Application.ejer1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,8 @@
       <workItem from="1668700918873" duration="2760000" />
       <workItem from="1668872035431" duration="735000" />
       <workItem from="1668912161741" duration="619000" />
-      <workItem from="1669128577174" duration="3513000" />
+      <workItem from="1669128577174" duration="4559000" />
+      <workItem from="1669141645851" duration="3951000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
