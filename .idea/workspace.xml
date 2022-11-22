@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="semana 11">
-      <change afterPath="$PROJECT_DIR$/src/zemana12/POO_ejer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana13/ejercicio3/MainFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana13/ejercicio3/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana13/ejercicio3/clasePersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana13/ejercicio3/mainEjer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana13/sem13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana14/excepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana15/cadenanombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zemana15/televisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zemana11/ejer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zemana11/ejer1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +59,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.excepciones">
+  <component name="RunManager" selected="Application.cadenanombres">
     <configuration name="arreglo_bidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zemana11.arreglo_bidimensional" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="zemana11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cadenanombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zemana15.cadenanombres" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zemana15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,13 +95,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ejer_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PC2.ejer_4" />
-      <module name="utp_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cadenanombres" />
         <item itemvalue="Application.excepciones" />
         <item itemvalue="Application.mainEjer3" />
         <item itemvalue="Application.arreglo_bidimensional" />
         <item itemvalue="Application.ejer1" />
-        <item itemvalue="Application.ejer_4" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,10 @@
       <workItem from="1667919898059" duration="3531000" />
       <workItem from="1668085355535" duration="11062000" />
       <workItem from="1668528293876" duration="2062000" />
-      <workItem from="1668700918873" duration="1784000" />
+      <workItem from="1668700918873" duration="2760000" />
+      <workItem from="1668872035431" duration="735000" />
+      <workItem from="1668912161741" duration="619000" />
+      <workItem from="1669128577174" duration="3513000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
