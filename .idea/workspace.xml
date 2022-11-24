@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c89499-f0be-4896-98b9-552429a69106" name="Changes" comment="semana 11">
-      <change afterPath="$PROJECT_DIR$/src/zemana15/bascnombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana15/libreria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zemana15/llamando_libreria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/pregunta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/pregunta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/pregunta3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/pregunta4/cAlumnoNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC3/pregunta4/indexAlumnos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,26 +57,13 @@
     &quot;app.teamhub.Diff-filters&quot;: &quot;{\&quot;pushedChanges\&quot;:true,\&quot;unpushedChanges\&quot;:true,\&quot;todo\&quot;:false,\&quot;inProgress\&quot;:true,\&quot;readyForReview\&quot;:true,\&quot;stale\&quot;:false,\&quot;forks\&quot;:true,\&quot;offline\&quot;:true,\&quot;nonConflicting\&quot;:false}&quot;,
     &quot;app.teamhub.Gutter-filters&quot;: &quot;{\&quot;pushedChanges\&quot;:true,\&quot;unpushedChanges\&quot;:true,\&quot;todo\&quot;:false,\&quot;inProgress\&quot;:true,\&quot;readyForReview\&quot;:true,\&quot;stale\&quot;:false,\&quot;forks\&quot;:true,\&quot;offline\&quot;:true,\&quot;nonConflicting\&quot;:true}&quot;,
     &quot;app.teamhub.trackedBranches&quot;: &quot;153998i/master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/leonardo/Documents/TP_project2Nov08&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/leonardo/IdeaProjects/utp_java&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.llamando_libreria">
-    <configuration name="arreglo_bidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zemana11.arreglo_bidimensional" />
-      <module name="utp_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zemana11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.indexAlumnos">
     <configuration name="cadenanombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zemana15.cadenanombres" />
       <module name="utp_java" />
@@ -87,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="excepciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zemana14.excepciones" />
+    <configuration name="indexAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC3.pregunta4.indexAlumnos" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zemana14.*" />
+          <option name="PATTERN" value="PC3.pregunta4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainEjer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zemana13.ejercicio3.mainEjer3" />
+    <configuration name="pregunta2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC3.pregunta2" />
       <module name="utp_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zemana13.ejercicio3.*" />
+          <option name="PATTERN" value="PC3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pregunta3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PC3.pregunta3" />
+      <module name="utp_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PC3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.indexAlumnos" />
+        <item itemvalue="Application.pregunta3" />
+        <item itemvalue="Application.pregunta2" />
         <item itemvalue="Application.llamando_libreria" />
         <item itemvalue="Application.cadenanombres" />
-        <item itemvalue="Application.excepciones" />
-        <item itemvalue="Application.mainEjer3" />
-        <item itemvalue="Application.arreglo_bidimensional" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +201,10 @@
       <workItem from="1668872035431" duration="735000" />
       <workItem from="1668912161741" duration="619000" />
       <workItem from="1669128577174" duration="4559000" />
-      <workItem from="1669141645851" duration="3951000" />
+      <workItem from="1669141645851" duration="5616000" />
+      <workItem from="1669147568057" duration="567000" />
+      <workItem from="1669148437447" duration="482000" />
+      <workItem from="1669301251271" duration="5513000" />
     </task>
     <task id="LOCAL-00001" summary="estructurando archivos">
       <created>1661297920484</created>
